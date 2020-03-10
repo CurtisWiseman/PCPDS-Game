@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_HomeNight.ogg-0d82a795d7a22f95243ccf17d3ec
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

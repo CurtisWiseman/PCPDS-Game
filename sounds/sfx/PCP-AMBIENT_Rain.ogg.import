@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCP-AMBIENT_Rain.ogg-787f55164e3ee14717e487fe3826aad5.oggstr"
+
+[deps]
+
+source_file="res://sounds/sfx/PCP-AMBIENT_Rain.ogg"
+dest_files=[ "res://.import/PCP-AMBIENT_Rain.ogg-787f55164e3ee14717e487fe3826aad5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

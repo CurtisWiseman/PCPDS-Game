@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_Holy.ogg-bbabf911746059e0b4ef128e384f35ed.
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

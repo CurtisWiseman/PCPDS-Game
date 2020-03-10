@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_ActionFun.ogg-e3436c4df7a17ba05edc39d1317a
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

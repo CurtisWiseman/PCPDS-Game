@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_Feed.ogg-b59bee6be37afac0fbc940015221a2c5.
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

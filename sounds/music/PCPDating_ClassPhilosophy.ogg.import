@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_ClassPhilosophy.ogg-f68c10aa970b854da4e825
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

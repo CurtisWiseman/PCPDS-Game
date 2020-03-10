@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_PurpleForest.ogg-e481ea73653b88c28f31adb6f
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

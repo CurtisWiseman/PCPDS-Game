@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCP-AMBIENT_Zombies.ogg-bd2c85ca1d5f82495dd2bdee7a0d
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

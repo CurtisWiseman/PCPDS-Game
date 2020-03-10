@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_TomsLot.ogg-a913005301c92fab12964105640ff7
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_RADCON.ogg-9eedb249cd01c95ee8881581b58198d
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

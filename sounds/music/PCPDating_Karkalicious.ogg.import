@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_Karkalicious.ogg-cbaf033f02493a7ce3ea06163
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

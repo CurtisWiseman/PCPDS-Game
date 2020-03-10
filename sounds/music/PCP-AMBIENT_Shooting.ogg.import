@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCP-AMBIENT_Shooting.ogg-170210854f74086ee8ef5c4e82d
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

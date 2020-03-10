@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCP-AMBIENT_Hallway.ogg-f301816953b00cf3b2564ea9ab28
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_MichellesTheme.ogg-b23f3c4cf6e380e28fd45e2
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_Menu.ogg-e406cd9bd4e2d075c04149f9d2f7e66b.
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

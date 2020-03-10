@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_Drugz.ogg-3cb466f2ecf7510c63cfe99ea6dd8bfa
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

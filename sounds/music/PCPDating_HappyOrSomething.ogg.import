@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_HappyOrSomething.ogg-3fa2f31f6f27a509cd6a8
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

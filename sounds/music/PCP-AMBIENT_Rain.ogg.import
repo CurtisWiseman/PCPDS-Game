@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCP-AMBIENT_Rain.ogg-1c7f2f782c71a6421dc8eb663b81cdb
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

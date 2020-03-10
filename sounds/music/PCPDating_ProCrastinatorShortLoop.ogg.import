@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_ProCrastinatorShortLoop.ogg-9b8debc8b05063
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_Slimefests.ogg-c26324959f85ef9ee4baf460090
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_ClassScience.ogg-f72d72f95039ed40745f66ee1
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCP-AMBIENT_Heartbeat.ogg-4cd20a0f2570b7f5e5f0df3d51
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

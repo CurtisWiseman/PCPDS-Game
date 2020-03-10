@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_ShatteredGlass.ogg-9dfdb2fde77da36cd97dd72
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

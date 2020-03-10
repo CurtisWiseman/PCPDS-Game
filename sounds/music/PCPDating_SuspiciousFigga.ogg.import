@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_SuspiciousFigga.ogg-f4f17a406e7815cfc5e837
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

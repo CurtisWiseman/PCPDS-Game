@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_HomeMorning.ogg-0ce7163f32351373995c4b18a8
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

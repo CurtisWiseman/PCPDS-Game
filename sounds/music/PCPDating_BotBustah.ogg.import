@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_BotBustah.ogg-01460ab646fddfc65c88f917711d
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

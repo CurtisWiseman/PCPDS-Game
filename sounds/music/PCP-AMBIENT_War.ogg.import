@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCP-AMBIENT_War.ogg-b1f15c7782f15253df867cd04d33d48e
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

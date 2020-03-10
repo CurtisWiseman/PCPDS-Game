@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_MoveMe.ogg-ac25f6c9ac88d4e99771944d042cc73
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

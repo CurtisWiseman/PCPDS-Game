@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_LifeInEndlessWar.ogg-72299e16bd44435da49a9
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

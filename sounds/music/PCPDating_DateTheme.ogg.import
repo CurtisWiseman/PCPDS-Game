@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_DateTheme.ogg-cc59bf9ed9c114ff46b4f7c50af7
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

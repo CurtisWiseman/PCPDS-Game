@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCP-AMBIENT_Classroom.ogg-9c97d929ec8c03c3d0af9781b3
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

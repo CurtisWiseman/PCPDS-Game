@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCP-AMBIENT_War.ogg-f9e966d49a7fd75ea1e2a90710643e85.oggstr"
+
+[deps]
+
+source_file="res://sounds/sfx/PCP-AMBIENT_War.ogg"
+dest_files=[ "res://.import/PCP-AMBIENT_War.ogg-f9e966d49a7fd75ea1e2a90710643e85.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

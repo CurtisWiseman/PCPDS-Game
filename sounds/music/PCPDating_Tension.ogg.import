@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_Tension.ogg-9a2daeb2fb940e7d84875b8c36c181
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

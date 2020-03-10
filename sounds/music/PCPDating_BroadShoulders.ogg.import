@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_BroadShoulders.ogg-4c91d9878ce92c48d0f43a4
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_Forsaken.ogg-d7caa68b43a8ba8632430bd534e8c
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

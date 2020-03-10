@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_ClassMemes_Megalovania.ogg-318bf063c970723
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

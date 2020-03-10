@@ -11,5 +11,5 @@ dest_files=[ "res://.import/PCPDating_ActionSerious.ogg-bedf544d51cb85e7c0f0f6be
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

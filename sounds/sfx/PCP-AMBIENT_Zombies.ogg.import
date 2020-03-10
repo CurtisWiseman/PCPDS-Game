@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCP-AMBIENT_Zombies.ogg-0cc47e35124a5d26f414f00a48db9246.oggstr"
+
+[deps]
+
+source_file="res://sounds/sfx/PCP-AMBIENT_Zombies.ogg"
+dest_files=[ "res://.import/PCP-AMBIENT_Zombies.ogg-0cc47e35124a5d26f414f00a48db9246.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
