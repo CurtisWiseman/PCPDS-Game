@@ -163,7 +163,11 @@ Too late. I’ve already given up on myself.
 
 (Nate|Professor Bestman, campus, pointing, shockMIN|shades) I can tell you’re a smart kid!
 
+<<<<<<< Updated upstream
 I wish I could tell him that my own personal drive does not even match a tenth of his drive on my behalf.
+=======
+I wish I could tell him that my own personal drive does not match even a tenth of [i]his[/i] drive on my behalf.
+>>>>>>> Stashed changes
 
 (Nate|Professor Bestman, campus, papers, confusedMIN|shades) Here, let me write down my address.
 
@@ -222,16 +226,27 @@ I turn around and start heading down the hallway to leave.
 I finished another Soy Bang Energy that I got from the 7-Eleven. Yet again, there is no trash can in sight.
 
 [Choice]
+<<<<<<< Updated upstream
 *Toss the can on the ground*
 *You’re Gonna Carry That Can*
+=======
+*Toss the can on the ground.*
+*[i]You’re Gonna Carry That Can[/i]*
+>>>>>>> Stashed changes
 
 *Toss the can on the ground*
 With a cavalier attitude, I toss the can on the ground beside me, and continue walking toward Nate’s apartment..
 
+<<<<<<< Updated upstream
 The Can will remember that.
+=======
+...
+
+[i]The Can will remember that.[/i]
+>>>>>>> Stashed changes
 *
 
-*You’re Gonna Carry That Can*
+*[i]You’re Gonna Carry That Can[/i]*
 I guess I’m going to carry this can. I keep walking toward Nate’s apartment.
 *
 
@@ -267,7 +282,9 @@ Of course, the amount of mental gymnastics necessary for even the most banal and
 
 He’s not answering?
 
-Incredible ameliorating relief washes over my body as I continue to sense no movement from the caverns on the other side of the door. A gentle soothing and smoothing wave assuages the rough wrinkles of hot tension accumulated across my upper chest.
+Incredible ameliorating relief washes over my body as I continue to sense no movement from the caverns on the other side of the door.
+
+A gentle soothing and smoothing wave assuages the rough wrinkles of hot tension accumulated across my upper chest.
 
 (PCPG) Fuck yes! He’s not in!!
 
@@ -291,7 +308,11 @@ fever pitch
 
 (Nate|Professor Bestman, casual, standing, neutral) Hey. What’s up, bud?
 
+<<<<<<< Updated upstream
 He’s looking rather different. This is intimidating in a rather new way.
+=======
+He’s looking [i]rather[/i] different. This is intimidating in a [i]rather[/i] new way.
+>>>>>>> Stashed changes
 
 (Nate|Professor Bestman, casual, standing, confusedMIN) No worries. I knew you’d be coming in late. Come on in.
 
@@ -325,8 +346,15 @@ Suddenly, I feel really guilty about once again throwing that empty energy drink
 Professor Bestman very obviously held onto his refuse can until he had an opportunity to dispose of it properly.
 *
 
+<<<<<<< Updated upstream
 *You’re Gonna Carry That Can.*
 Professor Bestman very obviously held onto his refuse can until he had an opportunity to dispose of it properly. He sees you’re still carrying that empty can of energy drink from earlier.
+=======
+*[i]You’re Gonna Carry That Can[/i]*
+Professor Bestman very obviously held onto his refuse can until he had an opportunity to dispose of it properly.
+
+He sees you’re still carrying that empty can of energy drink from earlier.
+>>>>>>> Stashed changes
 
 (Nate|Professor Bestman, casual, pointing, happyMIN|shades) Want me to get that for you?
 
@@ -371,7 +399,13 @@ I guess I was feeling a little tense earlier.
 
 (Nate, casual, standing, neutral|shades)
 
+<<<<<<< Updated upstream
 Professor Bestman opens a wooden cabinet he has in his room, doing that reveals a grand wash of canned beans. He grabs two and pulls out a peculiar looking metal object from his pocket.
+=======
+Professor Bestman opens a wooden cabinet he has in his room. Doing that reveals a grand wash of canned beans.
+
+He grabs two and pulls out a peculiar looking metal object from his pocket.
+>>>>>>> Stashed changes
 
 It seems to be some kind of small, portable, foldable blade. He senses my curiosity.
 
@@ -419,7 +453,15 @@ He has a point.
 
 He hands me an opened raw can of beans with an accompanying stainless-steel spoon. With his own spoon and beans, he starts diving into his meal.
 
+<<<<<<< Updated upstream
 Obviously, I have some personal reservations about consuming cold beans from a can, so I just meekly stir the contents with the spoon while watching the professor eat. The professor continues confidently consuming the cold bean cuisine, seeming lost in thought as he stares off into a corner of the room. What is he thinking about?
+=======
+(Nate, casual, standing, neutral|shades)
+
+Obviously, I have some personal reservations about consuming cold beans from a can, so I just meekly stir the contents with the spoon while watching the professor eat.
+
+The professor continues confidently consuming the cold bean cuisine, seeming lost in thought as he stares off into a corner of the room. What is he thinking about?
+>>>>>>> Stashed changes
 
 I feel surprisingly at ease and comfortable. Normally I would feel pressure to contribute conversation, but it somehow seems appropriate to just relax in silence together.
 
@@ -499,11 +541,11 @@ The way he’s explaining it is making it all clearer in my head. He takes a pen
 
 It’s obvious the professor is really passionate about this.
 
-(Nate|Professor Bestman, casual, smoking, neutral|shades) sacrifice…
+(Nate|Professor Bestman, casual, smoking, neutral|shades) Sacrifice…
 
 The professor trails off and starts staring into the far distance. Considering something very ponderously. I feel as if it should probably be me who breaks the silence.
 
-What do I think about the man, Ronnie Coleman, who sacrificed his life to become the greatest bodybuilder of all time?
+What do I think about the man, Ronnie Coleman, who sacrificed his life as he knew it to become the greatest bodybuilder of all time?
 
 [Choice]
 *Ronnie Coleman is truly a deserved king among men.*
@@ -579,7 +621,11 @@ I didn’t expect a full night’s sleep tonight.
 
 [Nate leaves]
 
+<<<<<<< Updated upstream
 sacrifice...
+=======
+[i]Sacrifice...[/i]
+>>>>>>> Stashed changes
 
 [Scene: Dating Tense!]
 
@@ -629,9 +675,9 @@ Tom goes back to his seat while Nate flips deftly to the appropriate page number
 
 [Tom leaves]
 
-(Nate|Nate, campus, papers, happyMED|shades, left, slide, center) Willpower: ‘Being able to do something difficult without cheating through it.’
+(Nate|Nate, campus, papers, happyMED|shades, left, slide, center) Willpower: [i]Being able to do something difficult without cheating through it.[/i]
 
-(Nate|Nate, campus, papers, neutral|shades) The example given is: ‘You have to have good willpower to go on a diet without breaking it.’
+(Nate|Nate, campus, papers, neutral|shades) The example given is: [i]You have to have good willpower to go on a diet without breaking it.[/i]
 
 The mundane writing and uninspired message fails to impress me, but as always, Nate is incredibly fascinated.
 
@@ -649,11 +695,9 @@ Nahhhh
 
 [Nate leaves]
 
-[Location: philosophyclass.b]
+(Nate, campus, standing, neutral|shades)
 
 [fade from black]
-
-(Nate, campus, standing, neutral|shades, offright, center)
 
 The next 2 hours and 45 minutes of the seminar proceeds with Nate discussing the history of willpower as a philosophical concept.
 
@@ -715,9 +759,19 @@ Tom is already getting started by reading some miscellaneous book. I manage to t
 
 (Nate, campus, standing, neutral|shades)$
 
+<<<<<<< Updated upstream
 Over the next hour we sit, discuss, and review the topics we went over in class. This started as a review session to get our grades up, but that changed as soon as Tom and I were doing just fine in terms of grades.
+=======
+We proceed to sit, discuss, and review the topics we went over in class.
+
+This started as a review session to get our grades up, but that changed as soon as Tom and I were doing just fine in terms of grades.
+>>>>>>> Stashed changes
 
 It’s turned into a guided independent study section of sorts. We now do advanced reading and discussion of the topics we comparatively skim over in class.
+
+[fade to black]
+
+[fade from black]
 
 The next hour, filled with tedious yet enriching reading and discussion, goes by as usual.
 
@@ -787,7 +841,17 @@ We sometimes do this. He likes to check up on my life to make sure I’m doing o
 
 It’s amazing how much more comfortable I am talking to the professor than I used to be.
 
+<<<<<<< Updated upstream
 After the usual review and discussion about my grades and participation in the class, we eventually move to more personal and heady topics. A particularly familiar and uncomfortable subject comes up…
+=======
+[fade to black]
+
+[fade from black]
+
+After the usual review and discussion about my grades and participation in the class, we eventually move to more personal and heady topics.
+
+A particularly familiar and uncomfortable subject comes up…
+>>>>>>> Stashed changes
 
 (Nate, campus, smoking, neutral|shades)
 
@@ -817,7 +881,7 @@ Nate always knows how to assuage my concerns.
 
 This should be interesting.
 
-You’ve learned quite a lot about Nate’s personal philosophies and intellectual ideas, but haven’t delved much into his personal life.
+I’ve learned quite a lot about Nate’s personal philosophies and intellectual ideas, but haven’t delved much into his personal life.
 
 (PCPG) What’s up?
 
@@ -851,7 +915,7 @@ I don’t get the reference, but it’s obvious this wish of Nate’s is very he
 
 (Nate|Nate, campus, standing, sadMIN|shades) I guess you could consider it a weakness of mine that I can’t do anything without proper notice beforehand and time to prepare...
 
-It’s interesting that Nate is even framing this as a weakness, afterall, I feel I could personally benefit from acquiring just a bit of Nate’s long-term judiciousness.
+It’s interesting that Nate is even framing this as a weakness. Afterall, I feel I could personally benefit from acquiring just a bit of Nate’s long-term judiciousness.
 
 (Nate|Nate, campus, standing, angryMIN|shades) The truth is that my propensity for needing to think things through before acting has made me miss out on some opportunities in the past…
 
@@ -911,7 +975,9 @@ It’s been a few weeks since Nate confided in me about his conference dilemma, 
 
 Regardless of my newfound confidence, I don’t think I could have even started if Nate hadn’t offered to help me out. 
 
-Nate and I continued to talk after the fateful library discussion a couple weeks ago. He’s still ambivalent and undecided about whether he should attend the upcoming conference. He’s trying his best to get ready, but it’s becoming increasingly obvious that he won’t have enough time to prepare as he wants. Something I think he knew from the very beginning...
+Nate and I continued to talk after the fateful library discussion a couple weeks ago. He’s still ambivalent and undecided about whether he should attend the upcoming conference. He’s trying his best to get ready, but it’s becoming increasingly obvious that he won’t have enough time to prepare as he wants.
+
+Something I think he knew from the very beginning...
 
 (Nate, casual, standing, happyMIN|shades, offleft, slide, right)
 
@@ -966,13 +1032,17 @@ I give my bro a thumbs up and then slowly raise the speed of the machine up to a
 
 I don’t know what he means by free weights, but I’m sure I’ll find Nate again with a short circuit ‘round the gym after I’m done here.
 
-There’s only two other people on treadmills with me, and both are in a strong galloping scamper going at much faster paces than me. A quick peek at their displays confirms that I’m easily being lapped by many yards.
+There’s only two other people on treadmills with me, and both are in a strong galloping scamper going at much faster paces than me.
+
+A quick peek at their displays confirms that I’m easily being lapped by many yards.
 
 They’ve both got those athletic earphones that wrap around the ear and that can withstand their quick and heavy strides. Dang, I should have brought some music.
 
 I’m sure some Bebop OP would really fuel my light jog right now.
 
-I complete around twelve minutes worth of running before I decide it’s good enough, then awkwardly stumble off the treadmill trying to bring the machine to a stationary pace. The maneuver wasn’t quite as graceful and easy as Nate made it look earlier.
+I complete around twelve minutes worth of running before I decide it’s good enough, then awkwardly stumble off the treadmill trying to bring the machine to a stationary pace.
+
+The maneuver wasn’t quite as graceful and easy as Nate made it look earlier.
 *
 
 *Indoor Track*
@@ -997,9 +1067,13 @@ I’m sure some 2nd GIG OP would really fuel my light jog right now.
 I finish about five or six laps before I lope off the track to my right.
 *
 
-I take in a long draft of water at a nearby fountain while catching my breath. I should probably also bring my own water bottle next time. A bottle and earphones seem like some pretty obvious sundries for the gym in hindsight.
+I take in a long draft of water at a nearby fountain while catching my breath.
 
-The two runners are still in their same spurting canter. They don’t seem to be stopping soon. Normally I would find this discouraging, but it’s actually comforting to know that I can achieve that for myself if I put in the work. 
+I should probably also bring my own water bottle next time. A bottle and earphones seem like some pretty obvious sundries for the gym in hindsight.
+
+The two runners are still in their same spurting canter. They don’t seem to be stopping soon.
+
+Normally I would find this discouraging, but it’s actually comforting to know that I can achieve that for myself if I put in the work. 
 
 A quick semi-circuit ‘round the gym and I find Nate sitting on a bench over by the dumbbells.
 
@@ -1011,7 +1085,11 @@ He doesn’t seem to notice me as I approach beside him.
 
 As he often does, Nate is gazing into the distance seemingly lost in thought, although this feels a little different from normal as his stare is much more resolved and focused.
 
+<<<<<<< Updated upstream
 jiiiiiiiiiiiiiiiiii--
+=======
+[i][b]Jiiiiiiiiiiiiiiiiii--[/b][/i]
+>>>>>>> Stashed changes
 
 Following his line of sight, I find that the subject of his glare is a young woman in the distance. She’s fiddling with a large piece of gym machinery.
 
@@ -1057,7 +1135,13 @@ Breaking the stagnant tension, Nate acknowledges my imploration.
 
 (Nate, casual, standing, angryMIN|shades)
 
+<<<<<<< Updated upstream
 It’s undeniably insane that Nate is being this neurotic over what should be a simple matter. If he doesn’t want to help, then he doesn’t have to, but Nate very obviously wants to help.
+=======
+It’s undeniably insane that Nate is being this neurotic over what should be a simple matter.
+
+If he doesn’t want to help, then he doesn’t have to, but Nate very obviously [i]wants[/i] to help.
+>>>>>>> Stashed changes
 
 (PCPG) You don’t have to write up an entire exercise regimen for her, you just have to show her how that one machine works.
 
@@ -1082,8 +1166,6 @@ I decide it judicious and discreet to abstain from the voyeuristic observance th
 [fade to black]
 
 [Nate leaves]
-
-[pause]
 
 [Location: gym]
 
@@ -1197,7 +1279,13 @@ Why?!
 
 …
 
+<<<<<<< Updated upstream
 (PCPG) This is Nate’s fault.
+=======
+(PCPG) [b]This is Nate’s fault.[/b]
+
+[i]So why do I feel so guilty?[/i]
+>>>>>>> Stashed changes
 
 So why do I feel so guilty?
 
@@ -1230,6 +1318,10 @@ I reach up and grab a can.
 [fade to black]
 
 This is important.
+
+[Forget Rainbow Unicorn]
+
+[Forget Soy]
 
 [Choice]
 *Rainbow Unicorn*
@@ -1393,7 +1485,13 @@ The semester is pretty much over.
 
 I’m still not arriving to class late, which means I get to hear the awesome Urban Dictionary Word of the Day from Nate.
 
+<<<<<<< Updated upstream
 I’ve gained about two pounds of muscle in the last month. I borrowed some equipment from Nate to measure that. He says he’s jealous of my natural genetics. Ha! /n This is the best I’ve ever physically felt.
+=======
+Nate says that it’s reflecting in my confidence as well.
+
+My GPA is also the highest it’s ever been.
+>>>>>>> Stashed changes
 
 Nate says that it’s reflecting in my confidence as well. My GPA is also the highest it’s ever been. At this point, I’m even on track to receive an extra scholarship for next semester.
 
@@ -1445,8 +1543,6 @@ There’s a few more sentences to the text, but you’re already bored. You bloc
 
 [Location: pcpgroom]
 
-[pause]
-
 [fade from black]
 
 It’s been about a month since your debacle with Professor Bestman. It’s funny to think that you were ever close to him.
@@ -1458,6 +1554,8 @@ The Guy’s a self-important asshole with a messiah complex. You’re glad you n
 He was obviously using you to boost his own ego and to justify his self-aggrandizing proselytizing. 
 
 He speaks of lofty aspirations, but is only looking to use others as stepping stones to raise his own ego and conceit.
+
+...
 
 [Location: pcpgbathroom]
 
@@ -1625,7 +1723,15 @@ Nate emerges from the shadows of the hallway.
 
 (Nate, casual, standing, confusedMIN|beard)
 
+<<<<<<< Updated upstream
 Upon closer inspection of Nate, I notice he’s in a similar state as his living room. His hair is a greasy mess, he stopped shaving, and he’s wearing the same clothes from when I saw him two days ago. This guy looks like he hasn’t been out of the house since you last saw him.
+=======
+Upon closer inspection of Nate, I notice he’s in a similar state as his living room.
+
+His hair is a greasy mess, he stopped shaving, and he’s wearing the same clothes from when I saw him two days ago.
+
+This [i]guy[/i] looks like he hasn’t been out of the house since you last saw him.
+>>>>>>> Stashed changes
 
 His eyes are watery red. He looks tired.
 
@@ -1767,6 +1873,7 @@ He’s back to the same ol’ Nate!
 
 In all the excitement, Nate goes through a series of bodybuilding poses as a physical manifestation of his extreme passion!
 
+<<<<<<< Updated upstream
 (Nate, casual, pointing, happyMIN|shades)
 
 (Nate, casual, papers, smittenMIN|shades)
@@ -1782,12 +1889,33 @@ In all the excitement, Nate goes through a series of bodybuilding poses as a phy
 (Nate, casual, maniacal)
 
 (Nate, casual, pointing, smittenMED|shades)
+=======
+(Nate|Nate, casual, pointing, happyMIN|shades) [i]Ha![/i]
+
+(Nate|Nate, casual, papers, smittenMIN|shades) [i]Take this![/i]
+
+(Nate|Nate, casual, pointing, confusedMIN|shades) [i]This is it![/i]
+
+(Nate|Nate, casual, smoking, confusedMED|shades) [i]See ya![/i]
+
+(Nate|Nate, casual, papers, confusedMAX|shades) [i]Here![/i]
+
+(Nate|Nate, casual, pointing, smittenMIN|shades) [i]Take that![/i]
+
+(Nate|Nate, casual, maniacal) [i]Come on![/i]
+
+(Nate|Nate, casual, pointing, smittenMED|shades) [i]It's over![/i]
+>>>>>>> Stashed changes
 
 First the Side Chest and then the Front Double Bicep.
 
 I’ve learned a lot about bodybuilding from my time with Nate.
 
+<<<<<<< Updated upstream
 (Nate|Nate, casual, maniacal) Yeah baby!
+=======
+(Nate|Nate, casual, maniacal) [i][b]Yeah baby![/b][/i]
+>>>>>>> Stashed changes
 
 He ends with the Most Muscular, the same pose as Ronnie Coleman in the picture on the wall behind me.
 
@@ -1835,7 +1963,11 @@ Nate walks over to his desk and picks up the ziploc bag of white powder.
 
 (Nate|Nate, casual, papers, neutral|shades) He also gave me this caffeine powder.
 
+<<<<<<< Updated upstream
 caffeine powder…
+=======
+[b]Caffeine powder…[/b]
+>>>>>>> Stashed changes
 
 (Nate|Nate, casual, standing, neutral|shades, right, slide, center) Speaking of Professor Saint, he actually texted me that he ran into you earlier this night.
 
@@ -1853,7 +1985,7 @@ Maybe this time Ben was looking after Nate.
 
 (PCPG) So what are you going to do about your speech then?
 
-(Nate|Nate, casual, smoking, confusedMAX|shades) You know what?..
+(Nate|Nate, casual, smoking, confusedMAX|shades) You know what?...
 
 (Nate, casual, papers, confusedMED|shades)
 
@@ -1957,7 +2089,9 @@ You wonder how these two can smile so much. They’re being perfectly pleasant..
 
 [Tom leaves]
 
-They both go in opposite directions. Normally, this would be a relief, but their sincere and non-judgemental attitude reminded you of some pleasant feelings and memories, and you feel like delaying the inevitable restless night of anxiousness and unease.
+They both go in opposite directions.
+
+Normally this would be a relief, but their sincere and non-judgemental attitude reminded you of some pleasant feelings and memories, and you feel like delaying the inevitable restless night of anxiousness and unease.
 
 You don’t want to go to sleep. All that would do is make the tomorrow start sooner.
 
@@ -2015,7 +2149,7 @@ He ended up taking you to his apartment. His place of living seems of similar ta
 
 You sit there calmly while he fills the room with vapor.
 
-(Ben|Ben, casual, base, shockMIN) Want a vape?
+(Ben|Ben, casual, base, shockMIN) Care for a puff?
 
 You shake your head in refusal. 
 
@@ -2023,7 +2157,15 @@ You don’t vape. Not anymore.
 
 Not that you don’t have your vices.
 
+<<<<<<< Updated upstream
 He opens up a mini fridge beside him to reveal a grand assortment of different brands, colors, and flavors of energy drinks. As a bit of an energy drink connoisseur yourself, you can’t help but be astonished.
+=======
+(Ben, casual, base, neutral, center, slide, right)
+
+He opens up a mini fridge beside him to reveal a grand assortment of different brands, colors, and flavors of energy drinks.
+
+As a bit of an energy drink connoisseur yourself, you can’t help but be astonished.
+>>>>>>> Stashed changes
 
 After grabbing a Rip It from the fridge, he notices your surprised gaze.
 
@@ -2035,7 +2177,7 @@ After grabbing a Rip It from the fridge, he notices your surprised gaze.
 
 (Ben|Ben, casual, point, blushMIN) What brand and flavor do you want? I probably have it in here somewhere.
 
-(PCPG) Soy Bang--
+(PCPG) [i]Soy Bang[/i]--
 
 You catch yourself before continuing. You’re not quite ready to commit social suicide.
 
@@ -2045,7 +2187,13 @@ You catch yourself before continuing. You’re not quite ready to commit social 
 
 He tosses over a white can and you catch it.
 
+<<<<<<< Updated upstream
 You asked for the standard green Monster, but this is very obviously the Zero Ultra. You crack it open and take a sip.
+=======
+(Ben, casual, base, neutral, right, slide, center)
+
+You asked for the standard green [i]Monster[/i], but this is very obviously the [i]Zero Ultra[/i]. You crack it open and take a sip.
+>>>>>>> Stashed changes
 
 It has less of a burn than regular Monster, like it’s less carbonated. It tastes good, though.
 
@@ -2163,7 +2311,7 @@ He walks you over to the front door.
 
 [StopMusic]
 
-We say our goodbyes and you turn around to leave.
+You say your goodbyes and you turn around to leave.
 
 (Ben, casual, base, neutral, offleft, slide, center)
 
@@ -2419,7 +2567,11 @@ Tom tosses you the bag of pills and you catch it in your hands.
 
 (PCPG) Thanks.
 
+<<<<<<< Updated upstream
 caffeine pills…
+=======
+[i]Caffeine pills…[/i]
+>>>>>>> Stashed changes
 
 (Tom|Tom, 2, angryMIN) Anyways, we should probably call it for the night. I actually have a conference of sorts I gotta attend tomorrow.
 
@@ -2429,7 +2581,7 @@ caffeine pills…
 
 [StopMusic]
 
-We say our goodbyes and you turn around to leave.
+You say your goodbyes and you turn around to leave.
 
 (Tom, 4, happyMIN)
 
@@ -2493,7 +2645,7 @@ Digi goes from visibly impatient to visibly perturbed.
 
 what?
 
-(Digi|Digi, campus, 2, angryMIN) What the fuck you mean, radical conference?!
+(Digi|Digi, campus, 2, angryMIN) What the fuck you mean, [i]radical conference[/i]?!
 
 (Digi|Digi, campus, 3, happyMAX) This is RadCon!
 
@@ -2513,7 +2665,7 @@ Digi snatches it from my hand.
 
 After a minute of inspection, which included a lift to the light to search for watermarks, he doesn’t seem any less perplexed.
 
-(Digi|Digi, campus, 2, shockMAX) Jesus christ. You are a narc’! I’ve never seen anything like this before in my life!
+(Digi|Digi, campus, 2, shockMAX) Jesus christ. You [i]are[/i] a narc’! I’ve never seen anything like this before in my life!
 
 (Digi|Digi, campus, 2, angryMED) Get the hell out of here.
 
@@ -2547,7 +2699,11 @@ oh god...
 
 I yell out, much louder than I was planning to.
 
+<<<<<<< Updated upstream
 (PCPG) PROFESSOR BESTMAN!!
+=======
+(PCPG) [i][b]NATE!!!![/b][/i]
+>>>>>>> Stashed changes
 
 (Digi, campus, 1, shockMED)$
 
@@ -2722,7 +2878,7 @@ A few individuals are walking around loudly vocalizing personas, skits, and affe
 
 One of them is Tom. I overhear a short snippet of what he’s saying. 
 
-(Tom|Tom, 1, happyMIN) Hey guys! Just got back from the gym and I'm ready to do some Q and A!
+(Tom|Tom, 1, happyMIN) [i]Hey guys! Just got back from the gym and I'm ready to do some Q and A![/i]
 
 I get the sense that Tom didn’t just get back from the gym. Oddly enough, I do sometimes see Tom at the gym in the morning, though.
 
@@ -2784,7 +2940,11 @@ I remember I used to look at people like this and think they were being idiotic,
 
 (Tom, 1, neutral, offright, right)$
 
+<<<<<<< Updated upstream
 (Nate, campus, standing, neutral, offright, center)
+=======
+(Nate, campus, standing, neutral|shades, offright, slide, center)
+>>>>>>> Stashed changes
 
 I decide to go outside for some fresh air, and see Tom, Ben, and Nate in a group together, standing rather idly. I walk over.
 
@@ -2826,7 +2986,7 @@ I see Nate shuffling around the note cards from last night in his hands.
 
 (Tom, 1, neutral, right, slide, right+200)$
 
-(Nate, campus, standing, neutral, center, center-250)
+(Nate, campus, standing, neutral|shades, center, slide, center-250)
 
 From out of the blue, I hear Mage’s voice. She’s addressing everybody in the vicinity.
 
@@ -2840,7 +3000,7 @@ From out of the blue, I hear Mage’s voice. She’s addressing everybody in the
 
 (Tom, 1, neutral, right+200, slide, right)$
 
-(Nate, campus, standing, neutral, center-250, center)
+(Nate, campus, standing, neutral|shades, center-250, slide, center)
 
 [Mage leaves]
 
@@ -2908,7 +3068,11 @@ Mage finishes the introduction and Nate moves closer to the microphone.
 
 It begins.
 
+<<<<<<< Updated upstream
 (Nate|Nate, campus, standing, happyMED|shades) The Urban Dictionary definition for sacrifice is: ‘The act of giving up one's own happiness for the sake of others.’
+=======
+(Nate|Nate, campus, standing, happyMED|shades) The [i]Urban Dictionary[/i] definition for [i]sacrifice[/i] is: [i]The act of giving up one's own happiness for the sake of others.[/i]
+>>>>>>> Stashed changes
 
 I can tell this is going to be the start of another incredible Nate lecture.
 
@@ -2926,11 +3090,19 @@ I can tell this is going to be the start of another incredible Nate lecture.
 
 [pause]
 
+<<<<<<< Updated upstream
 (Michelle, body2, head1, silhouette, offright, center)
 
 This seems familiar...
 
 (Michelle, body2, head1, offright, center)
+=======
+(Michelle, body2, face1, silhouette, offright, slide, center)
+
+This seems familiar...
+
+(Michelle, body2, face1)
+>>>>>>> Stashed changes
 
 It’s her again...
 
@@ -2948,10 +3120,17 @@ Ohhh…
 
 [fade to black]
 
+[StopMusic]
+
 [Michelle leaves]
 
 [CG: nate kamin]
 
+<<<<<<< Updated upstream
+=======
+[hidetext]
+
+>>>>>>> Stashed changes
 [fade from black]
 
 [pause]
@@ -3114,7 +3293,9 @@ You grab the water bottle you stored in the plastic bag along with the other dri
 
 [fade to black]
 
-...
+......
+
+............
 
 [Location: roof.blurry.2]
 
@@ -3186,7 +3367,11 @@ You’re so tired…
 
 [pause]
 
+<<<<<<< Updated upstream
 (Michelle, body2, head1, silhouette, offright, center) 
+=======
+(Michelle, body2, face1, silhouette, offright, slide, center) 
+>>>>>>> Stashed changes
 
 (Michelle|???, body2, head1, silhouette) You’ve met with a terrible fate, haven’t you?
 
