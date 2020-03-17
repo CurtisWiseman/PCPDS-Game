@@ -1,22 +1,27 @@
 [Scene: I Can’t Read Moonspeak]
  
-[Location: japaneseclass.day, japaneseclass.day.foreground]
+[Location: japaneseclass.day]
 [Song: PCPDating_ClassJapanese]
 [fade from black]
-
+<<<<<<< Updated upstream
+ 
 So far I’ve been doing a pretty alright job on the actually-give-a-crap-about-school-front. I’ve attended as many classes as are chronologically attendable, done extra research on the side and, oh yeah, I have essentially stopped sleeping. 
+=======
+
+So far I’ve been doing a pretty alright job on the actually-give-a-crap-about-school-front. 
+
+I’ve attended as many classes as are chronologically attendable, done extra research on the side and, oh yeah, I have essentially stopped sleeping. 
+>>>>>>> Stashed changes
 
 The things you do for the respect of your peers.
 
-(Davoo, hazmat, curious, offleft, slide, center) Hey PCPG. Don’t turn around, don’t look suspicious, okay?
+(Davoo, hazmat, curious, center) Hey PCPG. Don’t turn around, don’t look suspicious, okay?
  
 He sure isn’t one to talk. What the hell is going on with that outfit?
 
 (PCPG) I wasn’t planning on looking suspicious. Why?
  
-(Davoo, hazmat, thinking) So, what I  am about to say will sound weird, but there’s actually a very logical and important reason as to why you need to hear it; 
-
-(Davoo, hazmat, thinking) You’re the person in this room I distrust the least, and that’s not even mentioning the fact that this is about your textbook.
+(Davoo, hazmat, thinking) So, what I  am about to say will sound weird, but there’s actually a very logical and important reason as to why you need to hear it; You’re the person in this room I distrust the least, and that’s not even mentioning the fact that this is about your textbook.
 
 (Davoo, hazmat, curious) So swear that you won’t tell a soul.
 
@@ -63,7 +68,9 @@ The yellow suit still isn’t helping.
 
 (Davoo, hazmat, angryMIN) I can explain all of this bullshit to you after class, but for now just give me the damn book.
  
-Worried about my physical wellbeing and hoping that I didn’t fall asleep during class, I hand over my book, which is promptly disposed of in what Davoo refers to as an “atominous containment book shredder.”
+Worried about my physical wellbeing and hoping that I didn’t fall asleep during class, I hand over my book, 
+
+which is promptly disposed of in what Davoo refers to as an “atominous containment book shredder.”
 
 [fade to black]
 [Davoo leaves]
@@ -76,15 +83,25 @@ Worried about my physical wellbeing and hoping that I didn’t fall asleep durin
  
 (PCPG) Okay, I’m assuming this has something to do with that incident in science class. What’s going on?
  
-(Davoo, campus, explaining, shockMIN) Yeah, it’s pretty much exactly that. Atominous are particles that are… well, autonomous. They corrupt regular matter and try to pass for the genuine article, or adapt to reality, or something, but they are incredibly bad at it.
+<<<<<<< Updated upstream
+(Davoo, campus, explaining, shockMIN) Yeah, It’s pretty much exactly that. Atominous are particles that are… well, autonomous. They corrupt regular matter and try to pass for the genuine article, or adapt to reality, or something, but they are incredibly bad at it.
+=======
+(Davoo, campus, explaining, shockMIN) Yeah, it’s pretty much exactly that. Atominous are particles that are… well, autonomous. 
+
+(Davoo, campus, explaining, shockMIN) They corrupt regular matter and try to pass for the genuine article, or adapt to reality, or something, but they are incredibly bad at it.
+>>>>>>> Stashed changes
 
 (Davoo, campus, explaining, confusedMIN) Like awful.
 
-(Davoo, campus, explaining, neutral) But that doesn’t make them any less dangerous. Actually, the flawed nature of their adaptations in regards to the rules laid out by standard physics is what makes them such a threat in the first place.
+(Davoo, campus, explaining, neutral) But that doesn’t make them any less dangerous. 
+
+(Davoo, campus, explaining, neutral) Actually, the flawed nature of their adaptations in regards to the rules laid out by standard physics is what makes them such a threat in the first place.
  
 (PCPG) So what can they do?
  
-(Davoo, campus, explaining, confusedMIN) Anything. I don’t mean autonomous in the way a person would be, doing what you want to but within like the framework of physical possibility. No, actually autonomous.
+(Davoo, campus, explaining, confusedMIN) Anything. I don’t mean autonomous in the way a person would be, doing what you want to but within like the framework of physical possibility. 
+
+(Davoo, campus, explaining, confusedMIN) No, actually autonomous.
 
 (Davoo, campus, explaining, confusedMIN) Completely independent of all frameworks and breaking laws of physics that we haven’t even conceived of yet or potentially aren’t even capable of conceiving of.
  
@@ -98,7 +115,7 @@ Maybe the intense sleep deprivation is messing with my ability to fully comprehe
  
 (Davoo, campus, neutral, angryMIN) I’m not gonna let this school get shut down when I can take care of this crap myself. I’m not afraid of friggin’ textbooks.
 
-(Davoo, campus, neutral, angryMIN) I’m a professional.
+(Davoo, neutral, standing) I’m a professional.
  
 (PCPG) Meaning that your personal interest in anime history keeps you from divulging info about a dangerous infestation to experts.
  
@@ -110,7 +127,9 @@ Maybe the intense sleep deprivation is messing with my ability to fully comprehe
  
 (PCPG) I thought it wasn’t due to your professional presence, and besides, wouldn’t you rather keep people who know about this shit close?
  
-(Davoo, campus, thinking) I guess, but we won’t discuss this here. Come over to my place and we can review lecture material. Plus maybe, and that’s a huge giant fucking maybe, get you familiarized with the basics of atominous containment.
+(Davoo, campus, thinking) I guess, but we won’t discuss this here. Come over to my place and we can review lecture material. 
+
+(Davoo, campus, thinking) Plus maybe, and that’s a huge giant fucking maybe, get you familiarized with the basics of atominous containment.
  
 (Davoo, campus, neutral, happyMAX) Deal?
 
@@ -130,18 +149,19 @@ Despite the amount of discussion necessary to get any information out of the Dav
 
 (PCPG) Nice place.
 
-(Davoo, campus, greeting, happyMIN, offleft, slide, center) Yeah, it’s all you could possibly need. It’s sorted and it’s easily accessible.
+(Davoo, campus, greeting, happyMIN) Yeah, it’s all you could possibly need. It’s sorted and it’s easily accessible.
  
 (PCPG) Why are there boxes under your monitor?
  
-(Davoo, campus, thinking) So I don’t ever have to look down. Because if you do it a bit, it’s fine, but if you keep looking downward at your monitor the entire time, your back starts to hurt and you get less productive and it’s a huge fucking downward spiral that’s completely optional.
+(Davoo, campus, thinking) So I don’t ever have to look down. Because if you do it a bit, it’s fine, 
+
+(Davoo, campus, thinking) but if you keep looking downward at your monitor the entire time, your back starts to hurt and you get less productive and it’s a huge fucking downward spiral that’s completely optional.
 
 (Davoo, campus, neutral, neutral) This is the perfect setup, like I said, you should try it.
  
 (PCPG) And the VHS tapes under the keyboard serve what purpose?
  
-(Davoo, campus, explaining, confusedMIN) Well I can’t just have my arms not be level./n
-Why are you looking at me like I’m the crazy one, this is like the most basic shit when it comes to workplace comfort.
+(Davoo, campus, explaining, confusedMIN) Well I can’t just have my arms not be level./n Why are you looking at me like I’m the crazy one, this is like the most basic shit when it comes to workplace comfort.
  
 (PCPG) If you say so.
  
@@ -171,9 +191,7 @@ A message pops up on screen.
 
 (Davoo, campus, explaining, shockMIN) Other Davoos posted about their plans to contain it… Never heard from them again, so for now I’m just trying not to piss it off.
  
-(PCPG) Guess I’ll leave it alone then. Still, that sounds fascinating, to have a bunch of alternative yous to talk to… 
-
-(PCPG) does that sound self-absorbed?
+(PCPG) Guess I’ll leave it alone then. Still, that sounds fascinating, to have a bunch of alternative yous to talk to… does that sound self-absorbed?
  
 (Davoo, campus, explaining, happyMIN) It’s great for video game and anime suggestions, which encompasses most of the things they ever talk about. You almost forget how terrifyingly powerful it is.
 
@@ -219,7 +237,9 @@ All the while, Davoo gets increasingly more intoxicated.
  
 (PCPG) You’re really fucking good at this self-directed learning thing. I never had to properly concern myself with that stuff during school, and it bit me in the ass when I got to uni.
  
-(Davoo, campus, explaining, drunkMIN) I was homeschooled, so that probably helped, but then again, there are some homeschool kids who never learn anything, so I don’t know, maybe that’s an inherent character quality or something.
+(Davoo, campus, explaining, drunkMIN) I was homeschooled, so that probably helped, but then again, there are some homeschool kids who never learn anything, 
+
+(Davoo, campus, explaining, drunkMIN) so I don’t know, maybe that’s an inherent character quality or something.
  
 (PCPG) Maybe. Homeschooled huh? So were your parents religious nutjobs?
  
@@ -294,7 +314,9 @@ The evening flies by, as I start drinking despite my previous intentions and we 
  
 (PCPG) Sure, I can see that. Are you fully adjusted to it now?
  
-(Davoo, campus, thinking) Yeah, kind of. But I started thinking about that kind of thing again recently, about that feeling that you should be doing something else, while doing another thing and how that in itself might be kind of counterproductive.
+(Davoo, campus, thinking) Yeah, kind of. But I started thinking about that kind of thing again recently, 
+
+(Davoo, campus, thinking) about that feeling that you should be doing something else, while doing another thing and how that in itself might be kind of counterproductive.
  
 (Davoo, campus, thinking) Like there’s always a delay before you can start a new task because there’s a certain time needed to readjust and refocus.
 
@@ -324,12 +346,9 @@ I can’t even imagine how stressful ACTUALLY trying to get things done might be
  
 On my way home a message appears on my phone. I don’t recognize the number, but seeing as it is the middle of the night and I have nothing else to do, I open it. 
 
-The message reads as such:/n
-“We apologize for your inconvenience./n
--The Collective”
+The message reads as such:/n “We apologize for your inconvenience./n -The Collective”
 
-Is this supposed to be a joke?/n
-Maybe this is a side effect of not having slept in a few days, but neither do I get it, nor do I manage to care. 
+Is this supposed to be a joke?/n Maybe this is a side effect of not having slept in a few days, but neither do I get it, nor do I manage to care. 
 
 Without removing my clothes, I fall onto the bed to get at least an hour of shut-eye.
 
@@ -361,7 +380,9 @@ I’m barely out of the house when my phone vibrates.
 
 (PCPG) ...a kinda fucked up supernatural way, but still.
  
-(Davoo collective) Don’t bother lying to us. As a panmultiversal thinktank you learn to recognize patterns. And besides; did you know that versions of yourself ended up with pretty much every single person at PCPU?
+(Davoo collective) Don’t bother lying to us. As a panmultiversal thinktank you learn to recognize patterns. 
+
+(Davoo collective) And besides; did you know that versions of yourself ended up with pretty much every single person at PCPU?
 
 (Davoo collective) At this point we doubt that you’re even capable of platonic affection.
  
@@ -377,15 +398,13 @@ I’m barely out of the house when my phone vibrates.
 
 (Davoo collective) We simply want to apologize for taking your Davoo away. You see, the great convergence requires all Davoos, and yours will opt in like all the others.
  
-(Davoo collective) And besides; we are not atominous./n
-It is merely our communication with each other and you that is facilitated through atominous corruption.
+(Davoo collective) And besides; we are not atominous./n It is merely our communication with each other and you that is facilitated through atominous corruption.
 
 (Davoo collective) That’s an important distinction to make.
  
 (PCPG) Sooooo panmultiverse-one-person-human-instrumentality..? Great plan buddy.
 
-(PCPG) Davoo would never go for that shit and you know it, so whatever your atominous ass is trying to sucker me into: I’m not falling for it./n
-Good day.
+(PCPG) Davoo would never go for that shit and you know it, so whatever your atominous ass is trying to sucker me into: I’m not falling for it./n Good day.
  
 [fade to black]
 [StopMusic]
@@ -401,7 +420,7 @@ Good day.
 
 The strange appearances of some students at PCPU has stopped bothering me quite a while ago, and yet, I can’t stop my gaze from thoroughly examining the weird whiskers that seem to have appeared on Davoo’s face.
 
-(Davoo, campus, greeting, catboy, offleft, slide, left)
+(Davoo, campus, greeting, catboy)
  
 (PCPG) So are you just incredibly unfortunate when it comes to beard growth or is this some new fashion trend I should be aware of?
  
@@ -419,8 +438,7 @@ The strange appearances of some students at PCPU has stopped bothering me quite 
  
 (Davoo, campus, greeting, catboy) I’m not sure catboys such as myself are even capable of such tasks. The paws are a bit of a problem.
 
-(Davoo, campus, explaining, catboy) Say, would you consider yourself to be politically well informed?/n
-What news outlets do you follow?...
+(Davoo, campus, explaining, catboy) Say, would you consider yourself to be politically well informed?/n What news outlets do you follow?...
  
 He starts talking about the wall as I run for the main building. There has to be a school nurse somewhere.
 
@@ -431,10 +449,9 @@ He starts talking about the wall as I run for the main building. There has to be
  
 Strangely, everything else seems… well, normal, or normal by this school’s standards at least.
 
-(Digi|Professor Digibro, campus, 4, shockMIN, offright, slide, right) Whoah, you look a bit distressed, what’s going on?
+(Digi|Professor Digibro, campus, 4, shockMIN) Whoah, you look a bit distressed, what’s going on?
  
-(PCPG) Have you seen Davoo today?/n
-He’s acting kinda weird, right?
+(PCPG) Have you seen Davoo today?/n He’s acting kinda weird, right?
  
 (Digi|Professor Digibro, campus, 2, HappyMAX) That’s the Davoo for you. When has he ever not acted weird?
 
@@ -446,18 +463,17 @@ He’s acting kinda weird, right?
  
 He’s right, and maybe I was hallucinating after all, since the whiskers have vanished completely.
 
-[SLIDE, Digi, offright]
+[SLIDE, Digibro, center, offright]
+
+[Digibro leaves]
 
 (Davoo, campus, explaining, shockMIN, offleft, slide, center)
  
 (PCPG) Hey Davoo, sorry I stormed off earlier. I was kind of having a psychotic break, but it’s okay now... I think.
-
-[Digi leaves]
  
 (Davoo, campus, explaining, shockMIN) Who’s Davoo? I’m up and coming brony analyst and VHS collector Tapestack.
  
-(PCPG) Tapestack? /n
-I’m really having trouble figuring out which one of us is going insane.
+(PCPG) Tapestack? /n I’m really having trouble figuring out which one of us is going insane.
  
 (Davoo, campus, neutral, confusedMAX) Well clearly It’s me, since I’m talking to some kind of bipedal furless… what the fuck even are you?
  
@@ -467,14 +483,13 @@ I’m really having trouble figuring out which one of us is going insane.
  
 (Davoo, campus, neutral, neutral) No idea what you’re talking about. Anyways, I’ve got to go, I have some analysis videos to record.
 
-[SLIDE, Davoo, offright]
+[SLIDE, Davoo, center, offright]
+
+[Davoo leaves]
  
 Okay, that’s it. 
 
-Maybe I don’t know what’s going on, but I sure as fuck know who’s responsible./n
-I take out my phone.
-
-[Davoo leaves]
+Maybe I don’t know what’s going on, but I sure as fuck know who’s responsible./n I take out my phone.
 
 (PCPG) Yo, collective, what have you done to Davoo?
  
@@ -498,7 +513,7 @@ Why… why is he holding a diaper?
 
 Whatever facet of his personality this is; I’m really not sure I want to talk to it.
  
-[Choice]
+[choice]
 
 *I’m a gay little bitch baby and fetish talk makes me uncomfortable*
 *He can’t be that bad, right?*
@@ -527,28 +542,33 @@ Here goes nothing
 
 (Davoo, campus, thinking) Which is sexually gratifying in a fetishistic way all on it’s own, when you really look at it.
  
-(PCPG) Well that is deeply fucking disturbing./n
-Davoo, if you’re in there, please don’t put on that diaper and never talk about the allure of intrinsically degrading horror again.
+(PCPG) Well that is deeply fucking disturbing./n Davoo, if you’re in there, please don’t put on that diaper and never talk about the allure of intrinsically degrading horror again.
  
 (Davoo, campus, explaining, smittenMIN) Oh, I’m not interested in wearing this. I’m scouting for other people to do so.
 
-(Davoo, campus, explaining, neutral) You see, ABDL as a form of erotic ageplay usually has only one party in the compromised position of the infant. The eroticism for the other party lies in the control aspect and their partners visually indicated dependence upon them.
+<<<<<<< Updated upstream
+(Davoo, campus, explaining, neutral, center, slide, offright) You see, ABDL as a form of erotic ageplay usually has only one party in the compromised position of the infant. The eroticism for the other party lies in the control aspect and their partners visually indicated dependence upon them.
+ 
+[Davoo leaves]
+=======
+(Davoo, campus, explaining, neutral) You see, ABDL as a form of erotic ageplay usually has only one party in the compromised position of the infant. 
+
+(Davoo, campus, explaining, neutral) The eroticism for the other party lies in the control aspect and their partners visually indicated dependence upon them.
 
 (Davoo, campus, explaining, neutral, center, slide, offright)
+>>>>>>> Stashed changes
 
 (PCPG) I’m out!
-
-[Davoo leaves]
  
 [Location: black]
 [StopMusic]
-
+ 
 (PCPG) What happened?
  
 (Davoo, campus, thinking) Well I don’t know… apparently reality is collapsing or some shit.
  
 (PCPG) Oh thank god you’re back.
-
+ 
 (Davoo, campus, thinking) Yeah, I’m talking to the guys to figure out what’s going on.
  
 (PCPG) You mean the collective?
@@ -557,11 +577,9 @@ Davoo, if you’re in there, please don’t put on that diaper and never talk ab
  
 (PCPG) Like headmates?
  
-(Davoo, campus, explaining, neutral) Yeah, basically. Headmates of myself, which in turn have tulpas of themselves and so on.
+(Davoo, explaining, neutral) Yeah, basically. Headmates of myself, which in turn have tulpas of themselves and so on.
 
-(Davoo, campus, explaining, confusedMAX) One of them is telling me that my existence is the penultimate step in the collective’s completion.
-
-(Davoo, campus, explaining, confusedMAX) Which is nice I guess; being able to distribute tasks across infinitely many iterations of yourself.
+(Davoo, campus, explaining, confusedMAX) One of them is telling me that my existence is the penultimate step in the collective’s completion, which is nice I guess; being able to distribute tasks across infinitely many iterations of yourself.
 
 (Davoo, campus, explaining, confusedMAX) Finally being as insane as you always wanted to be.
  
@@ -582,11 +600,8 @@ And just like that, we vanish.
 [Location: waytoschool.nojesse]
 [CG: Davoo sun]
 [Song: PCPDating_HomeMorning]
-
-...
-
 [fade from black]
- 
+
 Wow. My first day at PCP University! 
  
 My last school threw me out for being too retarded and not being able to finish my assignments.
@@ -640,10 +655,8 @@ He screams desperately into the sewers.
 I take Gib at his word and turn my attention away from the loud ‘Priest’. I can't help but feel sorry for him though, if this is normal. The government should do something about the homeless.
  
 As the alleyway opens back up, I see the silhouette of the University peeking out from behind the houses, etching its bizarre shape into the skyline.
-
-[fade to black]
+ 
 [Location: outsidepcpu.day]
-[fade from black]
  
 (Gibbon, campus, clenched, happyMED) Anyways, welcome to PCP University!
  
@@ -658,7 +671,7 @@ Maybe it’s just the stress of changing schools.
  
 Gibbon and I wander the halls of the university. Gib seems to know where he is going and I too feel strangely at home. Suddenly a powerful voice booms from behind us.
  
-(Nate|Professor Bestman, campus, standing, happyMED|shades, offleft, slide, center) Hello puny students!
+(Nate|Professor Bestman, campus, standing, happyMED|shades) Hello puny students!
  
 (Nate|Professor Bestman, campus, papers, happyMIN|shades) Oh, I haven’t seen you around before. Are you new here?
  
@@ -668,7 +681,9 @@ Gibbon and I wander the halls of the university. Gib seems to know where he is g
  
 Nate steps closer to me. All of a sudden his once captivating muscles become intimidating, and his voice shifts to a serious tone.
  
-(Nate|Professor Bestman, campus, standing, happyMIN|shades) Do you plan to excel at this university? As a teacher, I want to see all my students become the greatest version of themselves. And I will do everything in my power to see that through to the end.
+(Nate|Professor Bestman, campus, standing, happyMIN|shades) Do you plan to excel at this university? As a teacher, I want to see all my students become the greatest version of themselves. 
+
+(Nate|Professor Bestman, campus, standing, happyMIN|shades) And I will do everything in my power to see that through to the end.
  
 I suddenly find myself having flashbacks to my last school. I cannot help but remember all the unfinished homework assignments, all the failed tests...
  
@@ -678,7 +693,7 @@ I suddenly find myself having flashbacks to my last school. I cannot help but re
  
 Great…
  
-(Action giraffe, gesture1, neutral, offleft, slide, left)
+(Action giraffe, neutral, left)
 
 A cool looking giraffe catches the teacher’s attention.
  
@@ -686,29 +701,29 @@ A cool looking giraffe catches the teacher’s attention.
 
 Okay, that’s enough
  
-(PCPG) He has AIDS. I know this shit./n
-Why the fuck is everything repeating, I’m losing my mind.
+(PCPG) He has AIDS. I know this shit./n Why the fuck is everything repeating, I’m losing my mind.
  
 Here’s the headache again. It’s like the universe is trying to prevent me from addressing its state of being utterly fucked.
  
-[SLIDE, actiongiraffe, offleft]
+[SLIDE, action giraffe, left, offleft]
+
+[Action Giraffe leaves]
  
 (Nate|Professor Bestman, campus, standing, angryMIN|shades) That’s really not how you should treat students with life threatening illnesses PCPG!
 
 (Nate|Professor Bestman, campus, standing, angryMED|shades) Despite his disease, he still strives towards accomplishing his dreams and that’s pretty fucking inspirational if you ask me.
+ 
+I simply head to music class myself since Nate is furious and Gib is off somewhere comforting a goddamn giraffe. 
 
-[ActionGiraffe leaves]
+[SLIDE, Nate, center, offleft]
 
-I simply head to music class by myself since Nate is furious and Gib is off somewhere comforting a goddamn giraffe. 
-
-[SLIDE, Nate, offleft]
+[Nate leaves]
 
 It’s like I have a mental map of this place. Finding the classroom is completely effortless.
  
 [fade to black]
-[Nate leaves]
 [StopMusic]
-[Location: musicclass, musicclass.foreground]
+[Location: musicclass]
 [Song: PCPDating_ClassJapanese]
 [fade from black]
 
@@ -716,10 +731,7 @@ We reach the music classroom. Gib and I sit down adjacent to one another. A scru
 
 Wait, that’s not right. “We” reach the classroom?
 
-Gib stayed back with action giraffe./n
-I walked here alone.
-
-We did not arrive together. 
+Gib stayed back with action giraffe./n I walked here alone./n We did not arrive together. 
 
 But we did.
  
@@ -745,7 +757,9 @@ No, brain, stop telling me what to think! I know how he looks.
  
 (PCPG) Yeah it was… interesting… Say, you don’t feel like this day has happened before, do you?
  
-(Digi|Professor Digibro, campus, 1, angryMIN) If you’ve heard this shit before, that’s fine, none of it is that advanced, but if you look around in the class, you’ll see that a lot of these guys need to be spoon-fed the basics first.
+(Digi|Professor Digibro, campus, 1, angryMIN) If you’ve heard this shit before, that’s fine, none of it is that advanced, 
+
+(Digi|Professor Digibro, campus, 1, angryMIN) but if you look around in the class, you’ll see that a lot of these guys need to be spoon-fed the basics first.
  
 (PCPG) That’s not what I mean. I mean the day is actually repeating wholesale, all of this stuff happened weeks ago, almost verbatim.
 
@@ -766,9 +780,14 @@ No, brain, stop telling me what to think! I know how he looks.
 (PCPG) No, I’m… fine. Just a little stressed… sorry for the inconvenience.
 
 [fade to black]
+<<<<<<< Updated upstream
+[Digibro leaves]
+[Location: dininghall.demo]
+=======
 [Digi leaves]
 [StopMusic]
-[Location: dininghall.demo]
+[Location: dininghall.demo, dininghall.table.mudpuddleforeground]
+>>>>>>> Stashed changes
 [Song: PCPDating_Feed]
 [fade from black]
 
@@ -779,10 +798,11 @@ As I push open the doors to the cafeteria, I am greeted by a familiar scene… n
  
 Yes you did… 
 
-Better to just play along with the conversation./n
-Resistance is so incredibly tiring.
+Better to just play along with the conversation./n Resistance is so incredibly tiring.
 
-I catch up to Gib waiting for me in the line as I look up at the menu options, which consist of the usual coloured pills, like forty strains of weed, huel, and of course, pizza, cause every place has to have fucking pizza apparently.
+I catch up to Gib waiting for me in the line as I look up at the menu options, which consist of the usual coloured pills, like forty strains of weed, huel, and of course, pizza, 
+
+cause every place has to have fucking pizza apparently.
 
 [SLIDE, Mage, center, offleft]
 
@@ -794,8 +814,7 @@ I look through the pizza options and confirm that Gib’s suggestion is far too 
 
 Chicken and Tea is sadly sold out.
  
-(PCPG) Chicken and tea plus the premium would be cheaper than all of this shit…/n
-Theft is what that is.
+(PCPG) Chicken and tea plus the premium would be cheaper than all of this shit…/n Theft is what that is.
  
 (Gibbon, campus, default, confusedMED) The premium?
  
@@ -845,11 +864,13 @@ Plagued by the worst cerebral pain yet, I run to find Digi.
  
 (Digi|P r 0f e220r >ig ibr 0, campus, 1, neutral) Do you know how much of a hassle it is to build a new reality? Luckily we have the manpower now, but you still can’t just shit on it like that.
 
-(Digi|P r 0f e220r >ig ibr 0, campus, 1, neutral) You can’t treat us like we’re the guys who sneezed on Steve Jobs, making him fatally ill and ruining humanity forever. You know what? We’ll stop talking to you.
+(Digi|P r 0f e220r >ig ibr 0, campus, 1, neutral) You can’t treat us like we’re the guys who sneezed on Steve Jobs, making him fatally ill and ruining humanity forever. 
+
+(Digi|P r 0f e220r >ig ibr 0, campus, 1, neutral) You know what? We’ll stop talking to you.
 
 (Digi|P r 0f e220r >ig ibr 0, campus, 1, neutral) Be happy about your second chance, will you.
  
-[Choice]
+[choice]
 
 *Be happy*
 *Are you fucking kidding me, give Davoo back*
@@ -866,7 +887,9 @@ Plagued by the worst cerebral pain yet, I run to find Digi.
  
 (PCPG) Whoa, no, there’s no way I’m doing that. You’re god.
 
-(PCPG) You literally made this universe, so I want to not have a headache whenever I change the course of events, I want to be Bezos levels of stupidly rich, I want to be the most attractive person on earth, but only to people I’m interested in and I want to be able to fly.
+(PCPG) You literally made this universe, so I want to not have a headache whenever I change the course of events, I want to be Bezos levels of stupidly rich, 
+
+(PCPG) I want to be the most attractive person on earth, but only to people I’m interested in and I want to be able to fly.
  
 (Digi|P r 0f e220r >ig ibr 0, campus, 1, neutral) Lol, sure, we guess we can make that happen. Anything else?
  
@@ -941,7 +964,9 @@ With that, I take to the skies in search of the hottest guy or girl on campus an
  
 It’s scary how fast life gets back to normal, or back to the absurd state of affairs that one has come to call normal despite the term being completely inapplicable. 
 
-Still, if feels nice, eating my greens as Davoo sits down with a ludicrous pile of food in front of me. It has occurred to me that one usually doesn’t confront what is by all reasonable standards a god for just any friend. 
+Still, if feels nice, eating my greens as Davoo sits down with a ludicrous pile of food in front of me. 
+
+It has occurred to me that one usually doesn’t confront what is by all reasonable standards a god for just any friend. 
 
 I really should ask Davoo out on a date… Maybe I can even get him to go to that fabled RadProm with me..
 
@@ -965,7 +990,9 @@ Great, what an amazing situation to broach the topic of romance.
  
 (Davoo, campus, thinking) We decided pretty quickly that thinking about the nature of our existence and how the concept of personhood does or doesn’t apply is kind of an overused trope.
 
-(Davoo, campus, thinking) All possible conclusions have been written about. We know the interesting part, which is that they exist and what they are, so what’s the point of figuring out which category we fell into?
+(Davoo, campus, thinking) All possible conclusions have been written about. 
+
+(Davoo, campus, thinking) We know the interesting part, which is that they exist and what they are, so what’s the point of figuring out which category we fell into?
  
 (PCPG) You weren’t interested at all?
  
@@ -1007,7 +1034,7 @@ Great, what an amazing situation to broach the topic of romance.
 
 [Scene: One Small Step for Spaceflight, One Giant Leap Away from Imminent Burnout]
  
-[Location: planetarium]
+[Location: planeterium]
 [Song: PCPDating_DateTheme]
 [fade from black]
  
@@ -1033,8 +1060,7 @@ How would one fuck up Saturn? I literally can’t think of a way.
  
 (Davoo, campus, explaining, smittenMAX) There’s the powerpoints for Digi, the atominous, school in general, the video game I’m working on, other odd-jobs like cleaning rocks or plugging cords into things, and you… kind of.
 
-(Davoo, campus, explaining, confusedMIN) Also some general self-care, but I can’t really drop that…/n
-Decisions: the biggest problem in the universe.
+(Davoo, campus, explaining, confusedMIN) Also some general self-care, but I can’t really drop that…/n Decisions: the biggest problem in the universe.
  
 (PCPG) You never even told me about a game. That seems like it should take priority.
  
@@ -1131,11 +1157,13 @@ Decisions: the biggest problem in the universe.
 [Song: PCPDating_Forsaken]
 [fade from black]
  
-A few days have passed since we met at the planetarium and I have hardly heard from Davoo since, which is my fault I guess, but I honestly just wanted him back in my reality. I didn’t actually think the things I said through. I just tried to be convincing… 
+A few days have passed since we met at the planetarium and I have hardly heard from Davoo since, which is my fault I guess, but I honestly just wanted him back in my reality. 
+
+I didn’t actually think the things I said through. I just tried to be convincing… 
 
 Someone sits down next to me.
 
-(Gibbon, campus, handsup, smittenMAX|blushies, offleft, slide, left) 
+(Gibbon, campus, handsup, smittenMAX, offleft, slide, left|blushies) 
  
 (PCPG) Hey Gib, how’s it going?
  
@@ -1210,8 +1238,7 @@ I make my way to the computer lab.
 
 (Davoo collective) You said that this wasn’t going to be an easy choice yourself… well, some versions of yourself actually meant that.
  
-(PCPG) What do you mean some versions of myself meant it? I am literally them./n
-I meant every word I said
+(PCPG) What do you mean some versions of myself meant it? I am literally them./n I meant every word I said
  
 (Davoo collective) No, you’re not.
 
@@ -1243,7 +1270,9 @@ I meant every word I said
  
 (Davoo collective) Well first of all; Tapestack is a literal fucking horse. I doubt that he shares a lot of my genetics.
 
-(Davoo collective) And secondly, there is nothing prohibiting someone with your code from having experienced severe trauma, or from having grown up in an entirely different culture, or a post apocalyptic wasteland.
+(Davoo collective) And secondly, there is nothing prohibiting someone with your code from having experienced severe trauma, 
+
+(Davoo collective) or from having grown up in an entirely different culture, or a post apocalyptic wasteland.
 
 (Davoo collective) So those things necessarily have to have occurred in at least one universe. Yet you probably don’t have any memories of that kind of stuff.
 
@@ -1257,7 +1286,9 @@ I meant every word I said
  
 (PCPG) Okay, so genetics is irrelevant and what matters more is some vague concept of “personality.”
  
-(Davoo collective) Exactly, there’s some completely arbitrary line which denotes the amount of character similarity required to make people part of the same panuniversal self, and it’s weirdly… I don’t know… convenient?
+(Davoo collective) Exactly, there’s some completely arbitrary line which denotes the amount of character similarity required to make people part of the same panuniversal self, 
+
+(Davoo collective) and it’s weirdly… I don’t know… convenient?
  
 (PCPG) So what, are you telling me that god is real?
  
@@ -1286,20 +1317,17 @@ I meant every word I said
 [Song: PCPDating_HomeNight]
 [fade from black]
  
-Get it together PCPG, it’s a day like any other apart from the fact that I’m dating the man of my dreams./n
-Hopefully, at least. 
+Get it together PCPG, it’s a day like any other apart from the fact that I’m dating the man of my dreams./n Hopefully, at least. 
 
 Truth be told, Davoo hasn’t talked to me much over the past few days and I’m really hoping that this is just his general elusive nature. 
 
-I know that I shouldn’t harass him, but at the same time it’s a bit unsettling, isn’t it?/n
-What if he changed his mind and chose Digi over me? 
+I know that I shouldn’t harass him, but at the same time it’s a bit unsettling, isn’t it?/n What if he changed his mind and chose Digi over me? 
 
 Not that I could blame him. That guy has seen WAY more anime than me. 
 
 So much more, in fact, that I have almost considered bringing up the diaper thing to win him over for good, but alas I couldn’t find the courage. 
 
-Get it together!/n
-I’m PCPG, I have talked god into disbanding, I can do this.
+Get it together!/n I’m PCPG, I have talked god into disbanding, I can do this.
  
 [fade to black]
 [StopMusic]
@@ -1309,33 +1337,39 @@ I’m PCPG, I have talked god into disbanding, I can do this.
  
 I see Digi before I do Davoo. He’s off to the side, smoking pot with a delinquent girl as it seems. Good for him. Suddenly, I feel a tap on my shoulder.
  
-(Davoo, special, smittenMIN)
+(Davoo, suit, neutral, smittenMIN)
  
 (PCPG) Hey, looking great!
  
-(Davoo, special, sadMIN) Thanks. Sorry that I dropped off the radar for a while.
+(Davoo, suit, neutral, sadMIN) Thanks. Sorry that I dropped off the radar for a while.
  
 (PCPG) You definitely had me worried for a bit, what was going on?
  
-(Davoo, special, neutral) Well, I had to completely restructure my daily schedule. So it’s kind of easier to get used to everything if there aren’t any outside distractions.
+(Davoo, suit, neutral, neutral) Well, I had to completely restructure my daily schedule. So it’s kind of easier to get used to everything if there aren’t any outside distractions.
 
 (PCPG) So you really quit, huh?
  
-(Davoo, special, neutral) Yeah… I think I’m happy about it.
+(Davoo, suit, neutral, neutral) Yeah… I think I’m happy about it.
 
-(Davoo, special, smittenMIN) I don’t really know yet, If that makes any sense. I’m definitely realizing more and more how much I’ve locked myself into a certain mode of operation, which it’s probably good to be out of.
+<<<<<<< Updated upstream
+(Davoo, suit, neutral, smittenMIN) I don’t really know yet, If that makes any sense. I’m definitely realizing more and more how much I’ve locked myself into a certain mode of operation, which it’s probably good to be out of.
+=======
+(Davoo, special, smittenMIN) I don’t really know yet, If that makes any sense. 
 
-(Davoo, special, smittenMIN) But that’s hard to measure by any kind of objective standards, so my mood and creative output are really the only thing I can go by while being almost impossible to quantify.
+(Davoo, special, smittenMIN) I’m definitely realizing more and more how much I’ve locked myself into a certain mode of operation, which it’s probably good to be out of.
+>>>>>>> Stashed changes
+
+(Davoo, suit, neutral, smittenMIN) But that’s hard to measure by any kind of objective standards, so my mood and creative output are really the only thing I can go by while being almost impossible to quantify.
  
 (PCPG) Meaning what exactly?
  
-(Davoo, special, happyMIN) That I’ll have to wait and see, I guess. Surely if I made a huge mistake, I’ll notice at some point.
+(Davoo, suit, neutral, happyMIN) That I’ll have to wait and see, I guess. Surely if I made a huge mistake, I’ll notice at some point.
  
 (PCPG) That makes sense… I don’t think that freedom to readjust and reconsider can be a bad thing, and Digi seems to be doing alright as well.
 
 (PCPG) Anyways, how’s the game going?
  
-(Davoo, special, happyMIN) I’ve made a ton of progress. Time hardly felt like it was passing with all of this manic energy I’ve had. But is that really what you want to talk about that right now?
+(Davoo, suit, neutral, happyMIN) I’ve made a ton of progress. Time hardly felt like it was passing with all of this manic energy I’ve had. But is that really what you want to talk about that right now?
  
 (PCPG) Right… of course… that isn’t the most relevant thing right now, is it?
 
@@ -1346,7 +1380,7 @@ Oh god I’m getting flustered. I don’t know if I can do this.
 [StopMusic]
 [Song: PCPDating_Beloved]
  
-(Davoo, special, smittenMAX) No, that’s not what I meant. Look, maybe I’m misreading social cues here, but this is prom night…
+(Davoo, suit, neutral, smittenMAX) No, that’s not what I meant. Look, maybe I’m misreading social cues here, but this is prom night…
  
 (PCPG) Yeah, I guess it is. Right now, I don’t really want to talk about anything at all. That is to say… I think… what I actually want is…
  
@@ -1360,17 +1394,25 @@ Nope, nothing happens.
 
 (PCPG) Hey, um, that was the cue, in case you were wondering.
 
-(Davoo, special, smittenMAX) Yeah, I know. I have consumed enough media to know that, which is kinda the problem, you know.
+(Davoo, suit, neutral, smittenMAX) Yeah, I know. I have consumed enough media to know that, which is kinda the problem, you know.
 
-(Davoo, special, shockedMIN) I don’t want to be cliche about this. Deriving some vapid enjoyment from playing the bishi in a trite performance of a societal idea of romance is probably fine and all, but it wouldn’t be satisfying in a greater sense. 
+<<<<<<< Updated upstream
+(Davoo, suit, neutral, shockedMIN) I don’t want to be cliche about this. Deriving some vapid enjoyment from playing the bishi in a trite performance of a societal idea of romance is probably fine and all, but it wouldn’t be satisfying in a greater sense. 
+=======
+(Davoo, special, shockedMIN) I don’t want to be cliche about this. Deriving some vapid enjoyment from playing the bishi in a trite performance of a societal idea of romance is probably fine and all, 
 
-(Davoo, special, smittenMAX) The whole “I love you” thing would just be a shtick at that point, so I need to find a better way of saying all this. 
+(Davoo, special, shockedMIN) but it wouldn’t be satisfying in a greater sense. 
+>>>>>>> Stashed changes
+
+(Davoo, suit, neutral, smittenMAX) The whole “I love you” thing would just be a shtick at that point, so I need to find a better way of saying all this. 
 
 God damn it, I should have seen that one coming.
 
-(PCPG) Well, I’m sure that you just said the “I love you”-thing in a way which no one ever has, and for good reason, so I’m gonna go ahead and kiss you now out of fear that this might become an essay on the rampant sameyness of confession scenes in mass media.
+(PCPG) Well, I’m sure that you just said the “I love you”-thing in a way which no one ever has, and for good reason, 
 
-(Davoo, special, smittenMAX) What?!
+(PCPG) so I’m gonna go ahead and kiss you now out of fear that this might become an essay on the rampant sameyness of confession scenes in mass media.
+
+(Davoo, suit, neutral, smittenMAX) What?!
 
 [fade to black]
  
@@ -1379,7 +1421,7 @@ God damn it, I should have seen that one coming.
 ~Good end~
 
 [Davoo leaves]
-[StopMusic] 
+[StopMusic]
 [Credits]
 
 
