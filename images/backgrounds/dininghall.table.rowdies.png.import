@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dininghall.table.rowdies.png-9c794ae7a55ca124f34bd31c2db1b98e.stex"
+path.s3tc="res://.import/dininghall.table.rowdies.png-9c794ae7a55ca124f34bd31c2db1b98e.s3tc.stex"
+path.etc2="res://.import/dininghall.table.rowdies.png-9c794ae7a55ca124f34bd31c2db1b98e.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/dininghall.table.rowdies.png"
-dest_files=[ "res://.import/dininghall.table.rowdies.png-9c794ae7a55ca124f34bd31c2db1b98e.stex" ]
+dest_files=[ "res://.import/dininghall.table.rowdies.png-9c794ae7a55ca124f34bd31c2db1b98e.s3tc.stex", "res://.import/dininghall.table.rowdies.png-9c794ae7a55ca124f34bd31c2db1b98e.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

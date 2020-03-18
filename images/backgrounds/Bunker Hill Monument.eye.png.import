@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Bunker Hill Monument.eye.png-be213f15f04af2ec63bacf37738a9813.stex"
+path.s3tc="res://.import/Bunker Hill Monument.eye.png-be213f15f04af2ec63bacf37738a9813.s3tc.stex"
+path.etc2="res://.import/Bunker Hill Monument.eye.png-be213f15f04af2ec63bacf37738a9813.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/Bunker Hill Monument.eye.png"
-dest_files=[ "res://.import/Bunker Hill Monument.eye.png-be213f15f04af2ec63bacf37738a9813.stex" ]
+dest_files=[ "res://.import/Bunker Hill Monument.eye.png-be213f15f04af2ec63bacf37738a9813.s3tc.stex", "res://.import/Bunker Hill Monument.eye.png-be213f15f04af2ec63bacf37738a9813.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

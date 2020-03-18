@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/roof.day.png-9eff1939b6f1517723448f4c0909e74f.stex"
+path.s3tc="res://.import/roof.day.png-9eff1939b6f1517723448f4c0909e74f.s3tc.stex"
+path.etc2="res://.import/roof.day.png-9eff1939b6f1517723448f4c0909e74f.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/roof.day.png"
-dest_files=[ "res://.import/roof.day.png-9eff1939b6f1517723448f4c0909e74f.stex" ]
+dest_files=[ "res://.import/roof.day.png-9eff1939b6f1517723448f4c0909e74f.s3tc.stex", "res://.import/roof.day.png-9eff1939b6f1517723448f4c0909e74f.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

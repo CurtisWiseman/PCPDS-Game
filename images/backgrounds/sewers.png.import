@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sewers.png-c4a86b90bb8d89e1b6986682b7e48c6c.stex"
+path.s3tc="res://.import/sewers.png-c4a86b90bb8d89e1b6986682b7e48c6c.s3tc.stex"
+path.etc2="res://.import/sewers.png-c4a86b90bb8d89e1b6986682b7e48c6c.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/sewers.png"
-dest_files=[ "res://.import/sewers.png-c4a86b90bb8d89e1b6986682b7e48c6c.stex" ]
+dest_files=[ "res://.import/sewers.png-c4a86b90bb8d89e1b6986682b7e48c6c.s3tc.stex", "res://.import/sewers.png-c4a86b90bb8d89e1b6986682b7e48c6c.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

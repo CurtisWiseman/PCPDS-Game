@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/7eleven.day.png-92fcf265fdd7bd60f66ae0412c8910cb.stex"
+path.s3tc="res://.import/7eleven.day.png-92fcf265fdd7bd60f66ae0412c8910cb.s3tc.stex"
+path.etc2="res://.import/7eleven.day.png-92fcf265fdd7bd60f66ae0412c8910cb.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/7eleven.day.png"
-dest_files=[ "res://.import/7eleven.day.png-92fcf265fdd7bd60f66ae0412c8910cb.stex" ]
+dest_files=[ "res://.import/7eleven.day.png-92fcf265fdd7bd60f66ae0412c8910cb.s3tc.stex", "res://.import/7eleven.day.png-92fcf265fdd7bd60f66ae0412c8910cb.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

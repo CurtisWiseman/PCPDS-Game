@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/comicstore.empty.png-4eef437cc324e1826b6007fa86d9d43a.stex"
+path.s3tc="res://.import/comicstore.empty.png-4eef437cc324e1826b6007fa86d9d43a.s3tc.stex"
+path.etc2="res://.import/comicstore.empty.png-4eef437cc324e1826b6007fa86d9d43a.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/comicstore.empty.png"
-dest_files=[ "res://.import/comicstore.empty.png-4eef437cc324e1826b6007fa86d9d43a.stex" ]
+dest_files=[ "res://.import/comicstore.empty.png-4eef437cc324e1826b6007fa86d9d43a.s3tc.stex", "res://.import/comicstore.empty.png-4eef437cc324e1826b6007fa86d9d43a.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

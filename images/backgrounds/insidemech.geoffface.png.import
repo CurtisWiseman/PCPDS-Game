@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/insidemech.geoffface.png-12999bea503cd73d7aa7dd8ea75d4494.stex"
+path.s3tc="res://.import/insidemech.geoffface.png-12999bea503cd73d7aa7dd8ea75d4494.s3tc.stex"
+path.etc2="res://.import/insidemech.geoffface.png-12999bea503cd73d7aa7dd8ea75d4494.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/insidemech.geoffface.png"
-dest_files=[ "res://.import/insidemech.geoffface.png-12999bea503cd73d7aa7dd8ea75d4494.stex" ]
+dest_files=[ "res://.import/insidemech.geoffface.png-12999bea503cd73d7aa7dd8ea75d4494.s3tc.stex", "res://.import/insidemech.geoffface.png-12999bea503cd73d7aa7dd8ea75d4494.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

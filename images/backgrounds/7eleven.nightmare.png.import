@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/7eleven.nightmare.png-b5ea55cfe57ebd2097dcf1c78775114d.stex"
+path.s3tc="res://.import/7eleven.nightmare.png-b5ea55cfe57ebd2097dcf1c78775114d.s3tc.stex"
+path.etc2="res://.import/7eleven.nightmare.png-b5ea55cfe57ebd2097dcf1c78775114d.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/7eleven.nightmare.png"
-dest_files=[ "res://.import/7eleven.nightmare.png-b5ea55cfe57ebd2097dcf1c78775114d.stex" ]
+dest_files=[ "res://.import/7eleven.nightmare.png-b5ea55cfe57ebd2097dcf1c78775114d.s3tc.stex", "res://.import/7eleven.nightmare.png-b5ea55cfe57ebd2097dcf1c78775114d.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

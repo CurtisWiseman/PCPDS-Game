@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pubcrawl.cider.png-8a274df086e95f92c84ff580ea71319c.stex"
+path.s3tc="res://.import/pubcrawl.cider.png-8a274df086e95f92c84ff580ea71319c.s3tc.stex"
+path.etc2="res://.import/pubcrawl.cider.png-8a274df086e95f92c84ff580ea71319c.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/pubcrawl.cider.png"
-dest_files=[ "res://.import/pubcrawl.cider.png-8a274df086e95f92c84ff580ea71319c.stex" ]
+dest_files=[ "res://.import/pubcrawl.cider.png-8a274df086e95f92c84ff580ea71319c.s3tc.stex", "res://.import/pubcrawl.cider.png-8a274df086e95f92c84ff580ea71319c.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

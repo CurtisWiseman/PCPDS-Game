@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dininghall.foodfight.png-9a68b2fa28e6e5ee5f8c36c9d69ea7aa.stex"
+path.s3tc="res://.import/dininghall.foodfight.png-9a68b2fa28e6e5ee5f8c36c9d69ea7aa.s3tc.stex"
+path.etc2="res://.import/dininghall.foodfight.png-9a68b2fa28e6e5ee5f8c36c9d69ea7aa.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/dininghall.foodfight.png"
-dest_files=[ "res://.import/dininghall.foodfight.png-9a68b2fa28e6e5ee5f8c36c9d69ea7aa.stex" ]
+dest_files=[ "res://.import/dininghall.foodfight.png-9a68b2fa28e6e5ee5f8c36c9d69ea7aa.s3tc.stex", "res://.import/dininghall.foodfight.png-9a68b2fa28e6e5ee5f8c36c9d69ea7aa.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

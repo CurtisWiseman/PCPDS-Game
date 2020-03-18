@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/japaneseclass.night.png-c32c4e2cf50a4d8ed95c27d68ce310a0.stex"
+path.s3tc="res://.import/japaneseclass.night.png-c32c4e2cf50a4d8ed95c27d68ce310a0.s3tc.stex"
+path.etc2="res://.import/japaneseclass.night.png-c32c4e2cf50a4d8ed95c27d68ce310a0.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/japaneseclass.night.png"
-dest_files=[ "res://.import/japaneseclass.night.png-c32c4e2cf50a4d8ed95c27d68ce310a0.stex" ]
+dest_files=[ "res://.import/japaneseclass.night.png-c32c4e2cf50a4d8ed95c27d68ce310a0.s3tc.stex", "res://.import/japaneseclass.night.png-c32c4e2cf50a4d8ed95c27d68ce310a0.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

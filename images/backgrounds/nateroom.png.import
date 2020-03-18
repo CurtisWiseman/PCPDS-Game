@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/nateroom.png-9d8c5a056a7c7e0dbaeef1c292c3016c.stex"
+path.s3tc="res://.import/nateroom.png-9d8c5a056a7c7e0dbaeef1c292c3016c.s3tc.stex"
+path.etc2="res://.import/nateroom.png-9d8c5a056a7c7e0dbaeef1c292c3016c.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/nateroom.png"
-dest_files=[ "res://.import/nateroom.png-9d8c5a056a7c7e0dbaeef1c292c3016c.stex" ]
+dest_files=[ "res://.import/nateroom.png-9d8c5a056a7c7e0dbaeef1c292c3016c.s3tc.stex", "res://.import/nateroom.png-9d8c5a056a7c7e0dbaeef1c292c3016c.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

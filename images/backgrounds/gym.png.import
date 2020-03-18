@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/gym.png-9d312963e21a7f7e8b2f4fb72a351984.stex"
+path.s3tc="res://.import/gym.png-9d312963e21a7f7e8b2f4fb72a351984.s3tc.stex"
+path.etc2="res://.import/gym.png-9d312963e21a7f7e8b2f4fb72a351984.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/gym.png"
-dest_files=[ "res://.import/gym.png-9d312963e21a7f7e8b2f4fb72a351984.stex" ]
+dest_files=[ "res://.import/gym.png-9d312963e21a7f7e8b2f4fb72a351984.s3tc.stex", "res://.import/gym.png-9d312963e21a7f7e8b2f4fb72a351984.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

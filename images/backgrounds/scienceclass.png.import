@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/scienceclass.png-31e852a3d240c58fe3d566dab162059e.stex"
+path.s3tc="res://.import/scienceclass.png-31e852a3d240c58fe3d566dab162059e.s3tc.stex"
+path.etc2="res://.import/scienceclass.png-31e852a3d240c58fe3d566dab162059e.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/scienceclass.png"
-dest_files=[ "res://.import/scienceclass.png-31e852a3d240c58fe3d566dab162059e.stex" ]
+dest_files=[ "res://.import/scienceclass.png-31e852a3d240c58fe3d566dab162059e.s3tc.stex", "res://.import/scienceclass.png-31e852a3d240c58fe3d566dab162059e.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

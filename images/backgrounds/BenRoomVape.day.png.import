@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BenRoomVape.day.png-7a822fba37ed0df57d37184b0a5bb5f6.stex"
+path.s3tc="res://.import/BenRoomVape.day.png-7a822fba37ed0df57d37184b0a5bb5f6.s3tc.stex"
+path.etc2="res://.import/BenRoomVape.day.png-7a822fba37ed0df57d37184b0a5bb5f6.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/BenRoomVape.day.png"
-dest_files=[ "res://.import/BenRoomVape.day.png-7a822fba37ed0df57d37184b0a5bb5f6.stex" ]
+dest_files=[ "res://.import/BenRoomVape.day.png-7a822fba37ed0df57d37184b0a5bb5f6.s3tc.stex", "res://.import/BenRoomVape.day.png-7a822fba37ed0df57d37184b0a5bb5f6.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

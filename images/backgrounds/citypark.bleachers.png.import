@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/citypark.bleachers.png-d8942456df8a7cd6683c30c6db2e2eea.stex"
+path.s3tc="res://.import/citypark.bleachers.png-d8942456df8a7cd6683c30c6db2e2eea.s3tc.stex"
+path.etc2="res://.import/citypark.bleachers.png-d8942456df8a7cd6683c30c6db2e2eea.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/citypark.bleachers.png"
-dest_files=[ "res://.import/citypark.bleachers.png-d8942456df8a7cd6683c30c6db2e2eea.stex" ]
+dest_files=[ "res://.import/citypark.bleachers.png-d8942456df8a7cd6683c30c6db2e2eea.s3tc.stex", "res://.import/citypark.bleachers.png-d8942456df8a7cd6683c30c6db2e2eea.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/radprom3.png-695c7095a779589edbc46cd6e4401dec.stex"
+path.s3tc="res://.import/radprom3.png-695c7095a779589edbc46cd6e4401dec.s3tc.stex"
+path.etc2="res://.import/radprom3.png-695c7095a779589edbc46cd6e4401dec.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/radprom3.png"
-dest_files=[ "res://.import/radprom3.png-695c7095a779589edbc46cd6e4401dec.stex" ]
+dest_files=[ "res://.import/radprom3.png-695c7095a779589edbc46cd6e4401dec.s3tc.stex", "res://.import/radprom3.png-695c7095a779589edbc46cd6e4401dec.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

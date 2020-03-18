@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pcpgroom.png-fb543d178b8b2b98e6f76362f56f3faa.stex"
+path.s3tc="res://.import/pcpgroom.png-fb543d178b8b2b98e6f76362f56f3faa.s3tc.stex"
+path.etc2="res://.import/pcpgroom.png-fb543d178b8b2b98e6f76362f56f3faa.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/pcpgroom.png"
-dest_files=[ "res://.import/pcpgroom.png-fb543d178b8b2b98e6f76362f56f3faa.stex" ]
+dest_files=[ "res://.import/pcpgroom.png-fb543d178b8b2b98e6f76362f56f3faa.s3tc.stex", "res://.import/pcpgroom.png-fb543d178b8b2b98e6f76362f56f3faa.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

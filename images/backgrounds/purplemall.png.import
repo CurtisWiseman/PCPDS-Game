@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/purplemall.png-45d47ebe1e1cb8d5ddca23bc6e1da320.stex"
+path.s3tc="res://.import/purplemall.png-45d47ebe1e1cb8d5ddca23bc6e1da320.s3tc.stex"
+path.etc2="res://.import/purplemall.png-45d47ebe1e1cb8d5ddca23bc6e1da320.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/purplemall.png"
-dest_files=[ "res://.import/purplemall.png-45d47ebe1e1cb8d5ddca23bc6e1da320.stex" ]
+dest_files=[ "res://.import/purplemall.png-45d47ebe1e1cb8d5ddca23bc6e1da320.s3tc.stex", "res://.import/purplemall.png-45d47ebe1e1cb8d5ddca23bc6e1da320.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

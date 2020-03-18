@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/copkilltown.png-82210ff96cc8566e63101128d7a42159.stex"
+path.s3tc="res://.import/copkilltown.png-82210ff96cc8566e63101128d7a42159.s3tc.stex"
+path.etc2="res://.import/copkilltown.png-82210ff96cc8566e63101128d7a42159.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/copkilltown.png"
-dest_files=[ "res://.import/copkilltown.png-82210ff96cc8566e63101128d7a42159.stex" ]
+dest_files=[ "res://.import/copkilltown.png-82210ff96cc8566e63101128d7a42159.s3tc.stex", "res://.import/copkilltown.png-82210ff96cc8566e63101128d7a42159.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

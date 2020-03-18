@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hallway2.png-c2f967f8ff9737148e7b0f0ab31e17f1.stex"
+path.s3tc="res://.import/hallway2.png-c2f967f8ff9737148e7b0f0ab31e17f1.s3tc.stex"
+path.etc2="res://.import/hallway2.png-c2f967f8ff9737148e7b0f0ab31e17f1.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/hallway2.png"
-dest_files=[ "res://.import/hallway2.png-c2f967f8ff9737148e7b0f0ab31e17f1.stex" ]
+dest_files=[ "res://.import/hallway2.png-c2f967f8ff9737148e7b0f0ab31e17f1.s3tc.stex", "res://.import/hallway2.png-c2f967f8ff9737148e7b0f0ab31e17f1.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

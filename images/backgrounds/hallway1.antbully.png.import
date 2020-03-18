@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hallway1.antbully.png-106d8d35d8c49fc50b90b3043b35fcbc.stex"
+path.s3tc="res://.import/hallway1.antbully.png-106d8d35d8c49fc50b90b3043b35fcbc.s3tc.stex"
+path.etc2="res://.import/hallway1.antbully.png-106d8d35d8c49fc50b90b3043b35fcbc.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/hallway1.antbully.png"
-dest_files=[ "res://.import/hallway1.antbully.png-106d8d35d8c49fc50b90b3043b35fcbc.stex" ]
+dest_files=[ "res://.import/hallway1.antbully.png-106d8d35d8c49fc50b90b3043b35fcbc.s3tc.stex", "res://.import/hallway1.antbully.png-106d8d35d8c49fc50b90b3043b35fcbc.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/philosophyclass.d.portal.png-2e7d633e17db5b82f86716b5d84007f8.stex"
+path.s3tc="res://.import/philosophyclass.d.portal.png-2e7d633e17db5b82f86716b5d84007f8.s3tc.stex"
+path.etc2="res://.import/philosophyclass.d.portal.png-2e7d633e17db5b82f86716b5d84007f8.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/philosophyclass.d.portal.png"
-dest_files=[ "res://.import/philosophyclass.d.portal.png-2e7d633e17db5b82f86716b5d84007f8.stex" ]
+dest_files=[ "res://.import/philosophyclass.d.portal.png-2e7d633e17db5b82f86716b5d84007f8.s3tc.stex", "res://.import/philosophyclass.d.portal.png-2e7d633e17db5b82f86716b5d84007f8.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

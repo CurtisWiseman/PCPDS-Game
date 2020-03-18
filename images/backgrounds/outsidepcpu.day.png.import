@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/outsidepcpu.day.png-5af5a685d3e733a82b0cee4e0d1c5c1d.stex"
+path.s3tc="res://.import/outsidepcpu.day.png-5af5a685d3e733a82b0cee4e0d1c5c1d.s3tc.stex"
+path.etc2="res://.import/outsidepcpu.day.png-5af5a685d3e733a82b0cee4e0d1c5c1d.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/outsidepcpu.day.png"
-dest_files=[ "res://.import/outsidepcpu.day.png-5af5a685d3e733a82b0cee4e0d1c5c1d.stex" ]
+dest_files=[ "res://.import/outsidepcpu.day.png-5af5a685d3e733a82b0cee4e0d1c5c1d.s3tc.stex", "res://.import/outsidepcpu.day.png-5af5a685d3e733a82b0cee4e0d1c5c1d.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

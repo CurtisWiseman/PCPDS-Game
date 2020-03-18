@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/outsidepcpu.nightmare.png-493c8d6a0c8c8632e5936f8a8ef30029.stex"
+path.s3tc="res://.import/outsidepcpu.nightmare.png-493c8d6a0c8c8632e5936f8a8ef30029.s3tc.stex"
+path.etc2="res://.import/outsidepcpu.nightmare.png-493c8d6a0c8c8632e5936f8a8ef30029.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/outsidepcpu.nightmare.png"
-dest_files=[ "res://.import/outsidepcpu.nightmare.png-493c8d6a0c8c8632e5936f8a8ef30029.stex" ]
+dest_files=[ "res://.import/outsidepcpu.nightmare.png-493c8d6a0c8c8632e5936f8a8ef30029.s3tc.stex", "res://.import/outsidepcpu.nightmare.png-493c8d6a0c8c8632e5936f8a8ef30029.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0

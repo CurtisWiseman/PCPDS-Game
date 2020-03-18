@@ -2,20 +2,22 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/computerlab.png-e6c8aa83ecce7525852c74ab203c3968.stex"
+path.s3tc="res://.import/computerlab.png-e6c8aa83ecce7525852c74ab203c3968.s3tc.stex"
+path.etc2="res://.import/computerlab.png-e6c8aa83ecce7525852c74ab203c3968.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://images/backgrounds/computerlab.png"
-dest_files=[ "res://.import/computerlab.png-e6c8aa83ecce7525852c74ab203c3968.stex" ]
+dest_files=[ "res://.import/computerlab.png-e6c8aa83ecce7525852c74ab203c3968.s3tc.stex", "res://.import/computerlab.png-e6c8aa83ecce7525852c74ab203c3968.etc2.stex" ]
 
 [params]
 
-compress/mode=0
-compress/lossy_quality=0.7
+compress/mode=2
+compress/lossy_quality=1.0
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
